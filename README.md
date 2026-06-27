@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Rohith a B-tech student currently in 4th year <br>core languages<br>python,java,c/c++
+Hi there, I'm Rohith Bollepally <br>-->B.Tech Computer Science Engineering Student<br>--> Malla Reddy University, Hyderabad<br>-->Aspiring Web Developer & Software Engineer<br>-->Currently learning Java, Web Development, and Cloud Technologies<br><br> Technologies & Skills<br>-->Languages: Java, JavaScript, HTML, CSS<br>-->Web Development: Responsive Websites, Frontend Development<br>-->Tools & Platforms: Git, GitHub, VS Code<br>-->Currently Learning: Cloud Computing, Advanced Java, and Backend Development
 
 
 # 💻 Tech Stack:
